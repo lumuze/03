@@ -1,0 +1,38 @@
+/*estilos para la pagina web*/
+body {
+    background-color: #af2626;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 36px;
+    color: rgb(100, 118, 224)898;
+}
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 64px;
+}
+
+#fondo {
+    background-color: #8bdba3;
+    /* modificar el color a elección */
+}
+
+p a {
+    color: #7f0dac;
+    text-decoration: none;
+}
+.ejemplo{
+    font-size: 24px;
+    font-style: oblique;
+    color: lightsalmon;
+}
